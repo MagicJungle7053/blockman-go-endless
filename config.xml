@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.blockman go endless.madeinscratch"
+    versionCode = "10"
+    version     = "0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>blockman go endless</name>
+
+  <description>
+      made in scratch
+  </description>
+
+  <author href="https://build.phonegap.com" email="Rileyjay25@outlook.com">
+      MagicJungle7053
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
